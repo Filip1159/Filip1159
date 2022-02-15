@@ -9,7 +9,7 @@
 
 ### About me
 <p>20 yrs old smalltown boy from Cuiavia</p>
-<p>Fan of books, cycling and mountains</p>
+<p>Fan of books:book:, cycling:bicyclist:, exploring new places and learning new things:open_mouth:</p>
 <p>Started my adventure with Arduino and embedded, later with web development, not sure what to do in the future yet</p>
 <div>
     <img src="img/arduino.png" height="60"/>
