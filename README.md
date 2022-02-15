@@ -8,9 +8,9 @@
 </div>
 
 ### About me
-<p styl>20 yrs old smalltown boy from Cuiavia</p>
-<p style="font-size: 16px;">Fan of books, cycling and mountains</p>
-<p style="font-size: 16px;">Started my adventure with Arduino and embedded, later with web development, not sure what to do in the future yet</p>
+<p>20 yrs old smalltown boy from Cuiavia</p>
+<p>Fan of books, cycling and mountains</p>
+<p>Started my adventure with Arduino and embedded, later with web development, not sure what to do in the future yet</p>
 <div>
     <img src="img/arduino.png" height="60"/>
     <img src="img/java.png" height="60"/>
@@ -21,7 +21,7 @@
 </div>
 
 ### "Talk is cheap, show me the code" ~~ Linus Torvalds
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filip1159&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=radical&hide=Dockerfile,Assembly,CMake" height="100"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Filip1159&show_icons=true&theme=radical" height="100"/>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filip1159&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=radical&hide=Dockerfile,Assembly,CMake" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Filip1159&show_icons=true&theme=radical" height="160"/>
 </div>
