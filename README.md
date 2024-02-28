@@ -1,16 +1,12 @@
 ## Hello there, Dear Sir or Madam <img src="img/open_hands.png" width="40"/>
-<div>
-    <p>
-        This Github account belongs to the student of applied computer science at Wroclaw University of Science & Technology since 2020, considering himself a self-taught programmer, math and electronics geek since 2018
-    </p>
-    <img src="img/pwr_logo.jpg" width="60"/>
-    <img src="img/wit_logo.png" width="60"/>
-</div>
+<p>
+    This Github account belongs to the software engineer at Ocado Technology since 2022, considering himself a self-taught programmer, math and electronics geek since 2018 and an engineer in computer science at Wroclaw University of Science and Technology since 2024
+</p>
 
 ### About me
-<p>20 yrs old smalltown boy from Cuiavia</p>
-<p>Fan of books:book:, cycling:bicyclist:, exploring new places and learning new things:open_mouth:</p>
-<p>Started my adventure with Arduino and embedded, later with web development, not sure what to do in the future yet</p>
+<p>22 yrs old man from Cuiavia and Wroclove</p>
+<p>Fan of books, cycling, skating, exploring new places and learning new things</p>
+<p>Started my adventure with Arduino and embedded, later with web development. At the moment - software engineer gaining experience</p>
 <div>
     <img src="img/arduino.png" height="60"/>
     <img src="img/java.png" height="60"/>
