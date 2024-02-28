@@ -18,6 +18,6 @@
 
 ### "Talk is cheap, show me the code" ~~ Linus Torvalds
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filip1159&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=radical&hide=Dockerfile,Assembly,CMake" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filip1159&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&icon_color=34abeb&theme=radical" height="160"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Filip1159&show_icons=true&theme=radical" height="160"/>
 </div>
